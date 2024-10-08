@@ -1,3 +1,11 @@
 :root{
-    --fundo:#000080;
+    --fundo:#483D8B;
+    --cartao-frente:#836FFF;
+    --cartao-verso:#6959CD;
+    --destaque: rgb(153, 0, 255);
+    --preto:#000000;
+    --branco:#ffffff;
+}
+body{
+    background-color: var(--fundo);
 }
