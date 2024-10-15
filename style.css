@@ -45,7 +45,7 @@ transform-style: preserve-3d;
 transition: transform 300ms ease-in-out;
 }
 
-.conteudo-cartao{
+.conteudo-cartao h3{
 color:var(--destaque);
 border: 1px solid var(--destaque);
 text-align: left;
