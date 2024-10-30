@@ -1,8 +1,8 @@
 :root{
     --fundo:#E6E6FA;
-    --cartao-frente:#db9ff7;
-    --cartao-verso:#8a19d4;
-    --destaque: rgb(168, 95, 190);
+    --cartao-frente:#c59ff7;
+    --cartao-verso:#7019d4;
+    --destaque: rgb(152, 95, 190);
     --preto:#000000;
     --branco:#ffffff;
 }
