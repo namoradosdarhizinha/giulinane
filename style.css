@@ -54,6 +54,7 @@ padding: 0.5rem;
 margin: 0.5rem;
 border-radius: 0.6rem;
 font-size: 1vw;
+backface-visibility: hidden;
 }
 
 .conteudo-cartao p{
@@ -74,4 +75,7 @@ font-weight: 500;
 
 .cartao:hover .conteudo-cartao {
 transform: rotateY(180deg);
+}
+.pergunta-cartao, .resposta-cartao{
+backface-visibility: hidden;
 }
